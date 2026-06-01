@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # portfolioLandingPage
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
@@ -31,3 +32,7 @@ To learn more, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+=======
+# Portafolio
+Software developer portfolio featuring web applications, AI-powered solutions, automation projects, and technical case studies. A collection of projects designed to solve real-world problems through technology.
+>>>>>>> 59a73f26f85c9e072ea5cbd9d18ec405f922e2c4
