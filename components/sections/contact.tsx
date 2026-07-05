@@ -8,9 +8,9 @@ import { Section, SectionHeader } from '@/components/system/section-shell'
 
 // EDIT: social + contact links
 const SOCIALS = [
-  { icon: Github, label: 'GitHub', href: 'https://github.com' },
-  { icon: Linkedin, label: 'LinkedIn', href: 'https://linkedin.com' },
-  { icon: Mail, label: 'Email', href: 'mailto:hello@angelcastillo.dev' },
+  { icon: Github, label: 'GitHub', href: 'https://github.com/angelcastillo-co' },
+  { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/miguel-angel-castillo-416538280/' },
+  { icon: Mail, label: 'Email', href: 'mailto:miguecastillo2005@gmail.com' },
 ]
 
 export function Contact() {
